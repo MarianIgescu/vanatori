@@ -1,0 +1,5 @@
+1.darmat
+2.curatat
+3.taiat
+4.asamblat
+5.vopsit
